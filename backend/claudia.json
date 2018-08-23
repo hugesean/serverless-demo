@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "backend-executor",
+    "name": "backend",
+    "region": "<YOUR AWS REGION>"
+  },
+  "api": {
+    "id": "<YOUR APP ID>",
+    "module": "app"
+  }
+}
